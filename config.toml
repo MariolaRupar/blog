@@ -1,0 +1,35 @@
+baseurl = "https://MariolaRupar.github.io"
+languageCode = "pl-PL"
+title = "O matematyce"
+theme = "kiss"
+copyright = "Szablon utworzony przez: &copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+Paginate = 5
+enableRobotsTXT = false
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.rss]
+
+includeContent = true # Includes whole content in rss
+authorName = "Mariola Rupar" # Site author's full name
+authorEmail = "rupar.mariola@gmail.com"
+
+[params.info]
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+related = false # Includes related articles
+
+
+[params.social]
+email = "rupar.mariola@gmail.com"
+
+[params.social.config]
+platforms = ["email"]
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
