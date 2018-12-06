@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O matematyce</title>
+    <link>https://MariolaRupar.github.io/</link>
+    <description>Recent content on O matematyce</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact>rupar.mariola@gmail.com</contact>
+    <copyright>Szablon utworzony przez: &copy; <a href="https://github.com/ribice">Emir Ribic</a> 2017</copyright>
+    
+        <atom:link href="https://MariolaRupar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Konkurs mikołajkowy</title>
+      <link>https://MariolaRupar.github.io/konkurs_mikolajkowy/</link>
+      <pubDate>Fri, 30 Nov 2018 16:07:31 +0100</pubDate>
+      <author>Mariola Rupar</author>
+      <guid>https://MariolaRupar.github.io/konkurs_mikolajkowy/</guid>
+      <description></description>
+      
+      <content>
+
+&lt;p&gt;W dniach 5-7 grudnia odbyły się Konkursy Mikołajkowe dla wszystkich poziomów. Wyniki zostaną podane w przyszłym tygodniu.&lt;/p&gt;
+
+&lt;h1 id=&#34;obrazek&#34;&gt;Obrazek&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mezquita_Shah%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_71-73_HDR.jpg/599px-Mezquita_Shah%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_71-73_HDR.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+</content>
+      
+    </item>
+    
+  </channel>
+</rss>
