@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matematyka on O matematyce</title>
-    <link>https://MariolaRupar.github.io/tags/matematyka/</link>
-    <description>Recent content in Matematyka on O matematyce</description>
+    <title>2018 on O matematyce</title>
+    <link>https://MariolaRupar.github.io/tags/2018/</link>
+    <description>Recent content in 2018 on O matematyce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
     <copyright>Szablon utworzony przez: &amp;copy; &lt;a href=&#34;https://github.com/ribice&#34;&gt;Emir Ribic&lt;/a&gt; 2017</copyright>
     <lastBuildDate>Thu, 06 Dec 2018 16:08:25 +0100</lastBuildDate>
     
-	<atom:link href="https://MariolaRupar.github.io/tags/matematyka/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://MariolaRupar.github.io/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://MariolaRupar.github.io/nowypost/</guid>
       <description>Nowy post
 Nagłówek cośtam</description>
-    </item>
-    
-    <item>
-      <title>Konkurs mikołajkowy</title>
-      <link>https://MariolaRupar.github.io/konkurs_mikolajkowy/</link>
-      <pubDate>Fri, 30 Nov 2018 16:07:31 +0100</pubDate>
-      
-      <guid>https://MariolaRupar.github.io/konkurs_mikolajkowy/</guid>
-      <description> W dniach 5-7 grudnia odbyły się Konkursy Mikołajkowe dla wszystkich poziomów. Wyniki zostaną podane w przyszłym tygodniu.
-Obrazek </description>
     </item>
     
   </channel>

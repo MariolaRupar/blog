@@ -13,6 +13,25 @@
     
     
     <item>
+      <title>Nowy Post</title>
+      <link>https://MariolaRupar.github.io/nowypost/</link>
+      <pubDate>Thu, 06 Dec 2018 16:08:25 +0100</pubDate>
+      <author>Mariola Rupar</author>
+      <guid>https://MariolaRupar.github.io/nowypost/</guid>
+      <description></description>
+      
+      <content>
+
+&lt;p&gt;Nowy post&lt;/p&gt;
+
+&lt;h1 id=&#34;nagłówek&#34;&gt;Nagłówek&lt;/h1&gt;
+
+&lt;p&gt;cośtam&lt;/p&gt;
+</content>
+      
+    </item>
+    
+    <item>
       <title>Konkurs mikołajkowy</title>
       <link>https://MariolaRupar.github.io/konkurs_mikolajkowy/</link>
       <pubDate>Fri, 30 Nov 2018 16:07:31 +0100</pubDate>
